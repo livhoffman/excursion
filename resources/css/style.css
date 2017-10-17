@@ -22,7 +22,8 @@ a {
 }
 
 p {
-  color: white;
+  color: gray;
+  font-size: 21px;
 }
 
 #footnote {
